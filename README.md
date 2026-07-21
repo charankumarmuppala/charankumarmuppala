@@ -1,15 +1,218 @@
-# 💫 About Me:
-I'm a final-year Computer Science student passionate about building scalable web applications and solving real-world problems through technology. I specialize in Python, Django, HTML, CSS, JavaScript, SQL, and Power BI, and enjoy creating user-friendly web applications backed by efficient databases. I also have a strong interest in Data Analytics and Machine Learning, using tools like Pandas, NumPy, Matplotlib, Excel, and Power BI to extract insights from data. I'm constantly learning new technologies, contributing to projects, and preparing for a career in software development.
+```markdown
+<h1 align="center">Hi 👋, I'm Muppala Charan Kumar</h1>
 
+<h3 align="center">
+Final Year Computer Science Student • Python Developer • Data Analytics Enthusiast • Web Developer
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muppalacharankumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charankumarmuppala@gmail.com) 
+<p align="center">
+Passionate about building data-driven applications, solving real-world problems, and creating impactful software.
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=charankumarmuppala&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=charankumarmuppala&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=charankumarmuppala&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🚀 About Me
+
+- 🎓 Final Year B.Tech Computer Science Student
+- 💻 Passionate about Python, Data Analytics & Web Development
+- 📊 Skilled in Power BI, Excel, SQL and Data Visualization
+- 🌱 Currently learning Machine Learning & Django
+- 🚀 Building **HackNest** – A Centralized Hackathon Management Platform
+- 🧩 Love solving coding problems and exploring new technologies
+- 🎯 Goal: Become a Data Analyst / Python Developer / AI Engineer
+
+---
+
+# 🌱 Currently Learning
+
+- Django
+- Machine Learning
+- Data Science
+- Power BI
+- SQL Optimization
+- REST APIs
+- Git & GitHub
+- System Design
+
+---
+
+# 💼 Projects
+
+### 🚀 HackNest
+A centralized platform to discover, register and manage hackathons with team formation, project submissions, judging and certificates.
+
+### 📊 Road Accident Analysis Dashboard
+Interactive Power BI dashboard analyzing accident trends and severity using RapidMiner and Power BI.
+
+### 🌾 Crop Recommendation System
+Machine Learning application that recommends crops based on soil nutrients and environmental conditions.
+
+### 🌧️ Rainfall Analysis in India
+Python project analyzing more than 100 years of rainfall data using Pandas, Matplotlib and Seaborn.
+
+### 🎮 Memory Match Game
+Responsive web-based memory game built using HTML, CSS and JavaScript.
+
+---
+
+# 💬 Ask Me About
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Django
+- Data Analytics
+- Machine Learning
+- Pandas
+- NumPy
+- Data Visualization
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📫 Reach Me
+
+📧 **Email**
+
+your-email@example.com
+
+🌐 **GitHub**
+
+https://github.com/YOUR_GITHUB_USERNAME
+
+🌍 **Portfolio**
+
+Coming Soon...
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://skillicons.dev/icons?i=leetcode" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,sql" />
+</p>
+
+---
+
+### Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn • Statistics**
+
+---
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,html,css,js,bootstrap" />
+</p>
+
+---
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Interests
+
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🐍 Python Development
+- 🌐 Web Development
+- 📈 Business Intelligence
+- 📉 Data Visualization
+- 💡 Problem Solving
+- ☁️ Cloud Computing
+- 🧩 Open Source
+- 🚀 AI Applications
+
+---
+
+> **"Learn continuously. Build consistently. Grow every day."**
+```
